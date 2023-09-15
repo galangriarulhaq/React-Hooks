@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
+import UseEffectBasic from "./component/UseEffect-Basic";
 import "./App.css";
-import UseStateBasic from "./component/UseState-Basic";
 
 function App() {
   return (
     <div className="app">
-      <UseStateBasic />
+      <UseEffectBasic />
     </div>
   );
 }

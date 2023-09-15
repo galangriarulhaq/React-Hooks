@@ -1,4 +1,8 @@
-.card {
-  width: 100px;
-  height: 100px;
+.app {
+  text-align: center;
+}
+
+.btn {
+  background-color: blue;
+  color: black;
 }
